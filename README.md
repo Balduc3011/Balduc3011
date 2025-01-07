@@ -5,16 +5,16 @@
 <div align="center">
   <img height="150" class="round-border-image" src="Asset/Icon/Avatar.png"  />
 </div>
-<h2 align="center">Hi 👋! My name is Balduu</h2>
+<h2 align="center">Hi 🔥! My name is Balduu</h2>
 
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">😺  About Me</h3>
 
 ###
 
-<p align="left">I'm a developer, from Vietnam<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a developer, from Vietnam<br></p>
 
 ###
 **`Game Developer`** **`Backend Developer`**
@@ -45,21 +45,33 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Balduc3011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### 🎮 Released Game
+### 🏆 Achievement
 <div>
-<a href="https://play.google.com/store/apps/details?id=com.abi.idle.restaurant&hl=vi" rel="nofollow" target="_blank">
-    <img align="left" alt="Dream Restaurant" width="100px" class="border-image hover-scale-up1" src="Asset/Icon/DreamRestaurant.jpg" />
-    <div class="hover-text">
-        <h4 align="left" class="game-info">Dream Restaurant - Idle Tycoon </h4>
-        4.6 ⭐
+  <h4 class="game-info">✨ 3rd prize from Abi Game Jam 2023 - Revolution of Puzzle</h4>
+  <p>Fire Rescue: Puzzle Brigade</p>
+</div>
+
+
+### 🕹️ Released Game
+<div>
+  <a href="https://play.google.com/store/apps/details?id=com.abi.idle.restaurant&hl=vi" rel="nofollow" target="_blank">
+      <img align="left" alt="Dream Restaurant" width="100px" class="border-image hover-scale-up1" src="Asset/Icon/DreamRestaurant.jpg" />
+  </a>
+  <div class="hover-text">
+        <h4 align="top" class="game-info">Dream Restaurant - Idle Tycoon </h4>
+        <p align="top" class="game-info">4.6 ⭐ </p>
+        <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+        <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
     </div>
-</a>
-<br clear="both">
-<a href="https://play.google.com/store/apps/details?id=com.abi.hotdog.tycoon&hl=vi" rel="nofollow" target="_blank">
-    <img align="left" alt="Hotdog Bitte" width="100px" class="border-image hover-scale-up1" src="Asset/Icon/Hotdog Bitte.png" />
-    <div class="hover-text">
-        <h4 align="left" class="game-info">Hotdog Bitte: Idle Tycoon </h4>
-        3.9 ⭐
+</div>
+<div>
+  <a href="https://play.google.com/store/apps/details?id=com.abi.hotdog.tycoon&hl=vi" rel="nofollow" target="_blank">
+      <img align="left" alt="Hotdog Bitte" width="100px" class="border-image hover-scale-up1" src="Asset/Icon/Hotdog Bitte.png" />
+  </a>
+  <div class="hover-text">
+        <h4 align="top" class="game-info">Hotdog Bitte: Idle Tycoon </h4>
+        <p align="top" class="game-info">3.9 ⭐ </p>
+        <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+        <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
     </div>
-</a>
 </div>
